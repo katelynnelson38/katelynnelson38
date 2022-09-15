@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello!
+
+I am new to GitHub, but excited to be here! I have a lot of experience with R and R Markdown in various settings (class, work, research, etc.) and I am a big fan of tidyverse and tidymodels.
+
+I am currently expanding my knowledge of Python in relation to data analysis and machine learning.
+
+Fun fact: my favorite color is green.
